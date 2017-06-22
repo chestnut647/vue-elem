@@ -18,7 +18,9 @@
 > - 评价选择组件
 > - 以及一些抽象出来的小组件
 ### 个人总结
-- 自己写了个关于这个小项目的总结，让自己印象更加深刻
+- 自己写了个关于这个小项目的总结，流程详细清晰。
 [博客地址](https://chestnut647.github.io/2017/06/21/基于vue2-0的饿了么单页面应用实现/)
 ### 参考资料
+- vue-cli [参考文档](https://vue-loader.vuejs.org/zh-cn/)
+- vue-router [参考文档](http://router.vuejs.org/zh-cn/)
 - 慕课网付费视频 [link](http://coding.imooc.com/class/74.html)
